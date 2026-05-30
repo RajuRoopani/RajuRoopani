@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Raju Roopani 👋</h1>
-<h3 align="center">Principal Engineer · Real-Time Conversational AI &amp; Agentic Systems</h3>
+<h3 align="center">Senior Software Engineer · AI Tech Lead @ Microsoft Teams</h3>
 
 <p align="center">
   <a href="https://rajuroopani.github.io"><img src="https://img.shields.io/badge/Portfolio-rajuroopani.github.io-8b5cf6?style=flat-square&logo=githubpages&logoColor=white"></a>
@@ -10,43 +10,40 @@
 
 ---
 
-Principal Engineer with **14+ years** of distributed systems and platform engineering at planetary scale — the last **3+ years** focused on **real-time conversational AI** and **agentic systems**. At **Microsoft Teams** I architected the *Meetings AI layer*: real-time RAG over meeting context (transcript, calendar, task systems), context-window optimization, and streaming LLM integration delivering **sub-200ms** AI assistance to millions of daily participants. Full-stack delivery from React/TypeScript frontends to distributed Python/Java backends, with deep ML/Eng collaboration patterns.
+**Engineering Leader with 14+ years** designing and operating large-scale distributed systems and platform components serving **hundreds of millions of users**. Deep expertise in developer API frameworks, Platform API engineering, and distributed systems — designing for **high availability, fault-tolerance, and horizontal scalability** as first principles. Strong bias for action and pragmatic problem-solving in complex, ambiguous environments. Proven success leading cross-functional teams from **0→1 concept to GA**, balancing engineering quality with continuous customer value delivery. Passionate about pioneering AI innovations and improving user productivity at scale.
 
-- 🔭 **Currently:** AI Tech Lead on the Teams Platform — building conversational AI and the agent extensibility platform serving **300M+ daily active users**.
+- 🔭 **Currently:** Senior Software Engineer · AI Tech Lead on the Teams Platform — building agent APIs, SDKs, and the orchestration runtime that serves **300M+ daily active users**.
 - 🌐 **Portfolio & deep dive:** [rajuroopani.github.io](https://rajuroopani.github.io)
-- 🎯 **Open to:** focused conversational-AI product engineering.
 
 ## 🛠️ What I work on
 
-- **Real-time conversational AI** — hybrid RAG over a corpus that grows as the meeting happens; streaming LLM tool-use loops at sub-200ms perceived latency.
-- **Multi-agent orchestration** — a distributed runtime supporting A2A (Agent-to-Agent), MCP (Model Context Protocol), human-in-the-loop, and partial-failure isolation.
-- **Developer platforms** — the manifest-based Teams Agent SDK, whose opinionated defaults took 3rd-party agent reliability **up 3×** and support tickets **down 60%**.
-- **Performance at scale** — cut p95 agent latency **320ms → 85ms** and cost per request by **40%** via event-driven coordination, retrieval caching, and tiered model routing.
-- **Full-stack delivery** — React/TypeScript to distributed Python/Java, with eval pipelines, observability, and progressive rollout as the ML/Eng contract.
+- **Agent Extensibility Platform & Orchestration Runtime** — Tech lead for Agent APIs, SDKs, and client experiences that let internal and external developers build production-grade agentic systems in Teams. Architected and delivered a real-time distributed multi-agent orchestration runtime supporting **A2A**, **MCP**, at-mention, context propagation, turn-taking protocols, and human-in-the-loop intervention — event-driven, with partial-failure isolation, idempotent retries, and horizontal scale-out delivering reliable, low-latency AI interactions to **300M+ Teams DAU**.
+- **Teams Meetings Platform Framework & SDK** — Led integration of AI agents into Teams Meetings, providing real-time insights and contextual assistance to millions of daily active users.
+- **Cross-Functional Technical Leadership** — Scope ambiguous work independently, evaluate build-vs-buy trade-offs, and make binding architectural decisions across Engineering, Product, Design, and AI Research without escalation.
+- **Modern Project Online** *(project.microsoft.com)* — Full-stack architecture and delivery of a cloud-native collaborative platform on **React/TypeScript, GraphQL, and Azure** for millions of enterprise users; cut page-load time **30%** via virtualization, memoization, and batch-update strategies.
 
 ## 📊 Selected impact
 
 | Metric | |
 | --- | --- |
-| **300M+** | daily active users served |
-| **sub-200ms** | perceived latency for in-meeting AI |
-| **85ms** | p95 agent latency (down from 320ms) |
-| **3×** | 3rd-party agent reliability |
-| **40%** | cost-per-request reduction |
+| **300M+** | Teams daily active users served |
+| **10M+** | financial transactions/day (Yodlee aggregation platform) |
+| **30%** | Project Online page-load reduction |
+| **~60%** | manual verification effort reduced (ARM build tooling) |
+| **14+ yrs** | large-scale distributed systems & platform engineering |
 
 ## 💼 Experience
 
-- **Microsoft** — Principal Software Engineer · AI Tech Lead, Teams Platform · *Jul 2018 – Present*
+- **Microsoft** — Senior Software Engineer · AI Tech Lead, Teams Platform · *Jul 2018 – Present*
 - **Envestnet Yodlee** — Member of Technical Staff, Platform Engineering · *Apr 2016 – Jul 2018*
-  <br/>High-throughput REST APIs (10M+ transactions/day on Kafka, Java Spring Boot); OAuth 2.0 / PSD2-compliant EU Open Banking integration.
-- **ARM** — Software Engineer, Build &amp; Automation Tooling · *Jan 2012 – Apr 2016*
-  <br/>Automation tooling for Physical IP modeling &amp; validation — reduced manual verification effort ~60%.
+  <br/>Large-scale financial aggregator platform — high-throughput Platform APIs at 10M+ transactions/day (Java Spring Boot + Apache Kafka); OAuth 2.0 client framework for PSD2-compliant EU Open Banking.
+- **ARM Embedded Technologies** — Software Engineer, Build &amp; Automation Tooling · *Jan 2012 – Apr 2016*
+  <br/>Automation tooling for Physical IP modeling &amp; validation — reduced manual verification effort ~60% and established build patterns reused across R&D teams.
 
-🎓 **B.E., Electronics &amp; Communications Engineering** — Osmania University
+🎓 **B.E., Electronics &amp; Communications Engineering** — Osmania University *(2007 – 2011)*
 
 ## 🧰 Tech &amp; tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23%2F.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java%20(Spring%20Boot)-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -58,9 +55,11 @@ Principal Engineer with **14+ years** of distributed systems and platform engine
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-**Conversational AI:** Real-Time RAG · Context Engineering · LLM Integration · Streaming UI · Agent Orchestration · A2A · MCP · HITL
-<br/>**LLM frameworks:** AutoGen · Azure OpenAI · OpenAI API · Anthropic Claude API
-<br/>**Distributed systems:** Microservices · Event-Driven Architecture · Fault Tolerance · Idempotency · Horizontal Scalability · Partial-Failure Isolation
+**Distributed Systems:** Microservices · Event-Driven Architecture · Event-Driven Messaging · Fault Tolerance · Horizontal Scalability · Idempotency
+<br/>**AI / Agentic:** MCP · A2A Communication · LLM Tool Use · Multi-Agent Orchestration · RAG · Agentic Workflows
+<br/>**AI Frameworks:** Azure OpenAI · AutoGen · OpenAI API · Claude API
+<br/>**Platform & Frameworks:** SDK Design · API Governance · Agent Runtime · Distributed Orchestration · Developer Onboarding
+<br/>**Cloud & Infra:** Azure (Service Bus, Functions, Cosmos DB, OpenAI) · Docker · Apache Kafka · Cosmos DB · MySQL · MongoDB · Oracle
 
 ## 📈 GitHub
 
@@ -71,4 +70,4 @@ Principal Engineer with **14+ years** of distributed systems and platform engine
 
 ---
 
-<p align="center"><i>"Delay the irreversible decisions, accelerate the reversible ones."</i></p>
+<p align="center"><i>High availability, fault-tolerance &amp; horizontal scalability — as first principles.</i></p>
