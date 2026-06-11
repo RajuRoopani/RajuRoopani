@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Raju Roopani 👋</h1>
-<h3 align="center">Senior Software Engineer · AI Tech Lead @ Microsoft Teams</h3>
+<h3 align="center">AI Software Engineer · Agentic Systems, LLM Platforms &amp; Distributed Systems</h3>
 
 <p align="center">
   <a href="https://rajuroopani.github.io"><img src="https://img.shields.io/badge/Portfolio-rajuroopani.github.io-8b5cf6?style=flat-square&logo=githubpages&logoColor=white"></a>
@@ -10,9 +10,9 @@
 
 ---
 
-**Engineering Leader with 14+ years** designing and operating large-scale distributed systems and platform components serving **hundreds of millions of users**. Deep expertise in developer API frameworks, Platform API engineering, and distributed systems — designing for **high availability, fault-tolerance, and horizontal scalability** as first principles. Strong bias for action and pragmatic problem-solving in complex, ambiguous environments. Proven success leading cross-functional teams from **0→1 concept to GA**, balancing engineering quality with continuous customer value delivery. Passionate about pioneering AI innovations and improving user productivity at scale.
+**AI Software Engineer and tech lead with 14+ years** building and operating large-scale distributed systems serving **hundreds of millions of users**. Specialized in **agentic AI systems** — multi-agent orchestration runtimes, LLM tool-use and function calling, **Model Context Protocol (MCP)** integrations, **agent-to-agent (A2A)** communication, RAG pipelines, memory systems, and evaluation loops. Strong foundation in **event-driven architecture, fault tolerance, idempotency, and horizontal scalability**. Proven track record taking AI products from **0→1 concept through GA**, and making binding architectural decisions in ambiguous, fast-moving environments. Passionate about shipping reliable, low-latency AI that measurably improves user productivity at scale.
 
-- 🔭 **Currently:** Senior Software Engineer · AI Tech Lead on the Teams Platform — building agent APIs, SDKs, and the orchestration runtime that serves **300M+ daily active users**.
+- 🔭 **Currently:** Principal Software Engineer · AI Tech Lead @ Microsoft AI (Teams Platform) — building agent APIs, SDKs, and the multi-agent orchestration runtime that serves **300M+ daily active users**.
 - 🌐 **Portfolio & deep dive:** [rajuroopani.github.io](https://rajuroopani.github.io)
 
 ## 🛠️ What I work on
@@ -34,13 +34,13 @@
 
 ## 💼 Experience
 
-- **Microsoft** — Senior Software Engineer · AI Tech Lead, Teams Platform · *Jul 2018 – Present*
+- **Microsoft AI** — Principal Software Engineer · AI Tech Lead, Teams Platform · *Jul 2018 – Present*
 - **Envestnet Yodlee** — Member of Technical Staff, Platform Engineering · *Apr 2016 – Jul 2018*
-  <br/>Large-scale financial aggregator platform — high-throughput Platform APIs at 10M+ transactions/day (Java Spring Boot + Apache Kafka); OAuth 2.0 client framework for PSD2-compliant EU Open Banking.
+  <br/>High-throughput financial aggregation platform at 10M+ transactions/day (Java Spring Boot + Apache Kafka); framework-agnostic integration bridging 100+ heterogeneous bank APIs into a unified runtime; OAuth 2.0 client framework for PSD2-compliant EU Open Banking.
 - **ARM Embedded Technologies** — Software Engineer, Build &amp; Automation Tooling · *Jan 2012 – Apr 2016*
   <br/>Automation tooling for Physical IP modeling &amp; validation — reduced manual verification effort ~60% and established build patterns reused across R&D teams.
 
-🎓 **B.E., Electronics &amp; Communications Engineering** — Osmania University *(2007 – 2011)*
+🎓 **B.E., Electronics &amp; Communications Engineering** — Osmania University, Hyderabad, India *(2007 – 2011)*
 
 ## 🧰 Tech &amp; Tools
 
@@ -54,6 +54,7 @@
 | ![A2A](https://img.shields.io/badge/A2A-Agent--to--Agent-7c3aed?style=flat-square) | Protocol for inter-agent communication and coordination across the multi-agent runtime |
 | ![Orchestration](https://img.shields.io/badge/Multi--Agent-Orchestration-6366f1?style=flat-square) | Distributed runtime — turn-taking, context propagation &amp; human-in-the-loop control at 300M+ DAU scale |
 | ![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented-06b6d4?style=flat-square) | Grounds LLM responses in live, domain-specific context for accuracy and trust |
+| ![Eval](https://img.shields.io/badge/Eval-Quality_Gates-22C55E?style=flat-square) | Golden-set regression eval, telemetry-driven quality gates &amp; distributed tracing — the contract that lets models change without product regression |
 | ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![AutoGen](https://img.shields.io/badge/AutoGen-2B6CB0?style=flat-square) | Foundation models behind a thin, provider-agnostic layer — swap providers, route by task complexity, unify telemetry |
 
 ### 🏗️ Distributed Systems &amp; Platform
@@ -70,10 +71,11 @@
 
 | Stack | How I apply it |
 | :-- | :-- |
-| ![C#](https://img.shields.io/badge/C%23-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) | Primary language for high-throughput Teams platform services |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Agentic systems, LLM orchestration, eval harnesses, and AI tooling |
+| ![C#](https://img.shields.io/badge/C%23-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) | High-throughput Teams platform services |
 | ![Java](https://img.shields.io/badge/Java-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) | Built event-driven financial-aggregation APIs handling 10M+ transactions/day |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Type-safe full-stack development across UI and services |
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | Lightweight API and tooling runtime for platform services |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Type-safe full-stack development across UI and services |
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | Lightweight API/tooling runtime and relational data access |
 
 ### 🎨 Frontend
 
